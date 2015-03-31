@@ -1,4 +1,3 @@
-call = "My name Akbar Anthony Amar!"
-puts call
-called = "Wow! Akbar Anthony Amar is a long name."
-puts called
+call = "Akbar Anthony Amar"
+puts "My name is "+call+"!"
+puts "Wow! "+call+" is a long name."
