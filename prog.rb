@@ -1,1 +1,1 @@
-puts "Let's Learn GIT"
+puts 'Let\'s Learn GIT'
